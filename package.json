@@ -1,0 +1,24 @@
+{
+  "name": "express305",
+  "version": "1.0.0",
+  "description": "",
+  "main": "loginex.js",
+  "scripts": {
+    "start": "node loginex.js",
+    "server": "nodemon loginex.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "react-bootstrap": "^2.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
